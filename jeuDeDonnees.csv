@@ -1,0 +1,58 @@
+Tenrac,,,,,,,,,,,,,,,Organisme,,,,,Organisation,,Club,,,,Ordre,,,Realise,,,,,,Enregistre1,
+codeMembre,numero#,refOrganisme#,nom,prenom,courriel,numeroTel,adressePostale,gradeSup#,gradeInf#,dignite#,titre#,rang#,idReunion#,,refOrganisme,typeOrganisme,raisonSociale,numeroSIRET,,numero,,numero_1,nomClub,numero#,,numero,nomOrdre,,numero#,refOrganisme#,codeMembre#,idMachine#,idEntretient#,,numero#,idEntretient
+3492,39,244,Martin,Lucas,lucas.martin@gmail.com,06 12 34 56 78,12 rue des Lilas,Chevalier,NULL,Maître,NULL,Novice,34,,123,Entreprise,TendersEnFolies,23214745834754,,12,,12,TendersDivin,NULL,,30,Name10Tenders,,39,244,3492,1,1,,12,2
+3940,12,123,Durand,Camille,camille.durand@gmail.com,07 45 89 12 63,48 avenue Victor-Hugo,Commandeur,NULL,NULL,Honorable,NULL,54,,244,Association,SauceCurryOuRien,84620485627496,,30,,39,TendersUnJourTendersToujours,42,,42,TendersWazaaa,,12,123,3940,2,2,,12,4
+6049,42,584,Lefèvre,Julien,julien.lefevre@gmail.com,06 98 21 47 35,7 impasse du Moulin,NULL,Sympathisant,NULL,Protecteur,Compagnon,34,,384,Association,AvecSaladeCUnCrime,19473649603746,,39,,45,TuPrefereLesTendersOuTaMere,30,,,,,39,244,3492,3,3,,12,7
+1084,30,384,Moreau,Sarah,sarah.moreau@gmail.com,07 03 56 84 19,93 boulevard des Étoiles,NULL,Adhérent,Maître,NULL,NULL,65,,459,Organisme de formation,RoblochonRaclette,19367486036242,,42,,57,CalorieClub,42,,,,,12,123,3940,4,4,,12,9
+5403,57,123,Bernard,Thomas,thomas.bernard@gmail.com,06 74 15 92 08,21 chemin des Pins,NULL,Affilié,Grand Chancelier,NULL,NULL,23,,584,Entreprise,CroustiTenders,17894053256845,,45,,,,,,,,,39,244,3492,5,5,,12,10
+9547,42,244,Petit,Emma,emma.petit@gmail.com,07 61 28 49 77,64 rue de la Liberté,Haute Dame,NULL,Maître,Philanthrope,Novice,34,,,,,,,57,,,,,,,,,39,244,3492,6,6,,39,2
+3921,42,123,Roux,Antoine,antoine.roux@gmail.com,06 39 80 14 52,5 allée des Chênes,NULL,Adhérent,NULL,Philanthrope,NULL,54,,,,,,,,,,,,,,,,42,244,9547,7,7,,39,4
+3958,30,584,Fournier,Léa,lea.fournier@gmail.com,07 92 06 35 41,82 place du Marché,NULL,Sympathisant,NULL,NULL,NULL,65,,,,,,,,,,,,,,,,39,244,3492,8,8,,39,7
+1093,39,459,Girard,Nicolas,nicolas.girard@gmail.com,06 55 67 23 90,16 rue des Tanneurs,Grand'Croix,NULL,Grand Maître,Honorable,Compagnon,65,,,,,,,,,,,,,,,,42,244,9547,9,9,,39,9
+5748,45,384,Dubois,Clara,clara.dubois@gmail.com,07 18 44 96 02,39 route de la Forêt,NULL,Adhérent,NULL,NULL,Compagnon,75,,,,,,,,,,,,,,,,12,123,3940,10,10,,39,10
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,7
+Plat,,,,Intolerance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,9
+idPlat,NomPlat,idLegume#,,numero#,refOrganisme#,CodeMemebre#,idLegume#,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,10
+1,Raclette Classique,1,,39,244,3492,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,57,2
+2,Raclette Deluxe,2,,12,123,3940,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,57,4
+3,Raclette Spicy,5,,42,584,6049,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,57,7
+4,Raclette Végé,1,,30,384,1084,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,57,9
+5,Raclette XXL,2,,57,123,5403,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,57,10
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Accompagne,,,Sauce,,,Forme,,,Ingredient,,,Legume,,,Compose,,,Repas,,,Aliment,,,Constitue,,,,,,,,,,,,
+idPlat#,idSauce#,,idSauce,NomSauce,,idSauce#,idIngredient#,,idIngredient,NomIngredient,,idLegume,NomLegume,,idRepas#,idPlat#,,idRepas,nomRepas,,idAliment,NomAliment,,idPlat#,idAliment#,,,,,,,,,,,
+1,1,,1,BBQ fumé,,1,1,,1,Poulet pané,,1,Salade,,1,1,,1,Menu Découverte,,1,Pain brioche,,1,1,,,,,,,,,,,
+1,5,,2,Curry miel,,2,1,,2,Fromage à raclette,,2,Tomate,,1,2,,2,Formule Spicy,,2,Tender de poulet,,1,2,,,,,,,,,,,
+2,2,,3,Algérienne,,3,2,,,,,3,Oignon rouge,,2,3,,3,Banquet XXL,,3,Frites,,1,3,,,,,,,,,,,
+2,5,,4,Mayonnaise,,4,1,,,,,4,Cornichon,,3,1,,4,Combo Classique,,4,Cheddar affinée,,2,1,,,,,,,,,,,
+3,3,,5,Sauce Fromagère,,5,2,,,,,5,Jalapeños,,3,5,,5,Festival Fromage,,,,,2,2,,,,,,,,,,,
+3,4,,,,,,,,,,,,,,,,,,,,,,,2,3,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,2,4,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Entretient,,,,,Modele,,,,Caractérise,,,Machine,,,UtilisationOfficielle,,,,,,,,,,,,,,,,,,,,,
+idEntretient,periodeEntretient,typeEntretient,numero#,,idModele,nomModele,idEntretient#,,idMachine#,idModele#,,idMachine,nomMachine,,idRepas,idMachine,,,,,,,,,,,,,,,,,,,,
+1,22/12/2023,mécanique,30,,1,Raclette Grill,1,,1,3,,1,familiale,,1,1,,,,,,,,,,,,,,,,,,,,
+2,10/03/2024,detergent,NULL,,5,Colormania Raclette,5,,2,5,,2,individuelle,,2,2,,,,,,,,,,,,,,,,,,,,
+3,15/07/2025,désinfectant,30,,3,RG 2341,8,,3,6,,3,multifonction,,3,3,,,,,,,,,,,,,,,,,,,,
+4,13/05/2022,dégraissant,NULL,,4,Grill 8,10,,4,8,,4,combinée,,2,1,,,,,,,,,,,,,,,,,,,,
+5,27/02/2023,mécanique,42,,5,Stone Grill,2,,5,9,,5,mini raclette,,1,4,,,,,,,,,,,,,,,,,,,,
+6,21/06/2024,détergent,42,,6,transparente,6,,6,10,,6,de table,,,,,,,,,,,,,,,,,,,,,,,
+7,04/02/2025,à l'eau,NULL,,7,mini-raclette,3,,7,7,,7,electrique,,,,,,,,,,,,,,,,,,,,,,,
+8,25/07/2025,désinfectant,42,,8,Accessimo Raclette,7,,8,1,,8,bon marché,,,,,,,,,,,,,,,,,,,,,,,
+9,22/04/2024,dégraissant,NULL,,9,BG 5203,4,,9,4,,9,traditionnelle,,,,,,,,,,,,,,,,,,,,,,,
+10,13/06/2025,à l'eau,NULL,,10,SR 663,9,,10,2,,10,pierrade-fondue,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Groupe,,,,,Mange,,,,Date,,Reunion,,,,Partenaire,,,,,,,,,,,,,,,,,,,,,
+idGroupe,numero#,RefOrganisme#,CodeMembre#,,date_#,"idGroupe""",idRepas#,,date_,,adresse#,date_#,idGroupe#,,adresse,numero#,,,,,,,,,,,,,,,,,,,,
+1,39,244,3492,,15/01/2026,1,1,,15/01/2026,,12 avenue des Tenracs,15/01/2026,1,,12 avenue des Tenracs,30,,,,,,,,,,,,,,,,,,,,
+2,12,123,3940,,17/01/2026,2,2,,17/01/2026,,45 rue de la Raclette,17/01/2026,2,,45 rue de la Raclette,42,,,,,,,,,,,,,,,,,,,,
+3,42,244,9547,,25/01/2026,1,4,,25/01/2026,,23 place du Poulet,02/02/2026,3,,23 place du Poulet,30,,,,,,,,,,,,,,,,,,,,
+4,39,459,1093,,02/02/2026,3,2,,02/02/2026,,67 place du Gourmet,28/02/2026,4,,67 place du Gourmet,30,,,,,,,,,,,,,,,,,,,,
+,,,,,28/02/2026,4,3,,28/02/2026,,12 avenue des Tenracs,25/01/2026,1,,12 avenue des Tenracs,42,,,,,,,,,,,,,,,,,,,,
